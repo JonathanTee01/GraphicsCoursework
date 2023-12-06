@@ -1,0 +1,2 @@
+Point lights with specular;
+https://subscription.packtpub.com/book/game-development/9781849694209/1/ch01lvl1sec11/point-light

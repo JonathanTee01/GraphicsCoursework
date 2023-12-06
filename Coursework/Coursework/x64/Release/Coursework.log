@@ -1,0 +1,49 @@
+﻿F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\DepthOfFieldPS.hlsl(37,12-70): warning X3206: implicit truncation of vector type
+F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\DepthOfFieldPS.hlsl(42,12-69): warning X3206: implicit truncation of vector type
+F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\DepthOfFieldPS.hlsl(50,12-70): warning X3206: implicit truncation of vector type
+F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\DepthOfFieldPS.hlsl(58,12-67): warning X3206: implicit truncation of vector type
+F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\DepthOfFieldPS.hlsl(66,12-69): warning X3206: implicit truncation of vector type
+F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\DepthOfFieldPS.hlsl(73,12-60): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\DepthOfFieldPS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\DepthPS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\DepthVS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\HeightMapDepthVS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\HeightMapTessellationDepthDS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\HeightMapTessellationDS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\NoReflectPS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\HeightMapVS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\TessellationHS.cso
+F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\TessellationVS.hlsl(22,5-36): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\TessellationVS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\TexturePS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\VertexShader.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\ReflectPS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\WaveDepthVS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\WaveTessellationDepthDS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\WaveTessellationDS.cso
+  compilation object save succeeded; see F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\WaveVS.cso
+  App1.cpp
+F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\App1.cpp(19,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\App1.cpp(20,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  DepthShader.cpp
+  GenericShader.cpp
+  HeightMapShader.cpp
+  Main.cpp
+  PostProcessShader.cpp
+F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\PostProcessShader.cpp(87,10): warning C4101: 'result': unreferenced local variable
+  TessellationDepthShader.cpp
+F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\TessellationDepthShader.cpp(46,20): warning C4101: 'waveBufferDesc': unreferenced local variable
+  TessellationPlane.cpp
+F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\TessellationPlane.cpp(24,6): warning C4101: 'index': unreferenced local variable
+  TessellationShader.cpp
+  WaveShader.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1579 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+DXFramework.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(WICTextureLoader.obj)' or at 'F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(pch.obj)' or at 'F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(DDSTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(DDSTextureLoader.obj)' or at 'F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\DirectXTK.pdb'; linking object as if no debug info
+  Coursework.vcxproj -> F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Release\Coursework.exe

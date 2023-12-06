@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\x64\Debug\Coursework.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\DepthOfFieldPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\DepthPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\DepthVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\HeightMapDepthVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\HeightMapTessellationDepthDS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\HeightMapTessellationDS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\NoReflectPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\HeightMapVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\TessellationHS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\TessellationVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\TexturePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\VertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\ReflectPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\WaveDepthVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\WaveTessellationDepthDS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\WaveTessellationDS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\Uni stuff\PortfolioItems\cmp301_coursework-Jonathan-01-1\Coursework\Coursework\WaveVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
